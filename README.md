@@ -8,7 +8,7 @@ Download or clone repository into your favorite IDE or online Java compiler, pre
 
 # New Additions
 
-• Added title sequence, ins-game instructions, and limiter on how many times to play.<br />
+• Added title sequence, in-game instructions, and limiter on how many times to play.<br />
 • Added feature for player name.<br />
 • Updated prompts for 'draw'.
 
