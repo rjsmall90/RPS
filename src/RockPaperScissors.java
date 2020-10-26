@@ -27,7 +27,6 @@ public class RockPaperScissors {
                     "From 'ROCK', 'PAPER' or 'SCISSORS' \n " +
                     "The computer will play back! \n " +
                     "Are you ready for this game of chance!?!?");
-
         }
 
         Scanner input = new Scanner(System.in);
