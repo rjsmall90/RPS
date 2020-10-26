@@ -4,8 +4,14 @@ Took 20 minutes to build a VERY crude version of Rock, Paper, Scissors for mothe
 
 ## How To Play
 
-Download or clone repository into your favorite IDE, press play, make your selection, hit enter and enjoy!
+Download or clone repository into your favorite IDE or online Java compiler, press play and enjoy!
+
+# New Additions
+
+• Added title sequence, ins-game instructions, and limiter on how many times to play.<br />
+• Added feature for player name.<br />
+• Updated prompts for 'draw'.
 
 
 ## Will Be Adding Issues To Resolve
-No testing was done to application, basic if/else statements for win/loss and random number generator for computer choice. 
+No testing done to application, basic if/else statements for win/loss and random number generator for computer choice. 
